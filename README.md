@@ -31,7 +31,3 @@ Contributions to this project are welcome. Please open an issue or submit a pull
 
 1. [federicoarenasl/Data-Generation-with-Blender](https://github.com/federicoarenasl/Data-Generation-with-Blender)
 2. [Synthetic Data Generation for Computer Vision in Blender (Part 1)](https://betterprogramming.pub/synthetic-data-generation-for-computer-vision-in-blender-part-1-6926819b11e6?gi=1f3e5f2f5bca)
-
----
-
-This README is a template and might need modifications to fit your project needs. Let me know if you need any changes!
